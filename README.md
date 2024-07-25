@@ -9,4 +9,5 @@ Created an interactive dashboard using Excel which included the following:
   
 **Skills**: Data Analysis · Data Visualization · Data Cleaning · Microsoft Excel · Pivot Tables
 
+![Screenshot 2024-07-08 100930](https://github.com/user-attachments/assets/74fd400c-3879-48e5-93e3-1af41ba8ccdb)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
