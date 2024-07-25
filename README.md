@@ -11,3 +11,6 @@ Created an interactive dashboard using Excel which included the following:
 
 ![Screenshot 2024-07-08 100930](https://github.com/user-attachments/assets/74fd400c-3879-48e5-93e3-1af41ba8ccdb)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**2- Coffee Sales Analysis and Dashboard**
+
+This project involved data cleaning and using advanced excel functionalities namely xlookup and index match to help with data analysis. It also utilised pivot tables to create the visuals as well as a timeline and a slicer to create an interaction dashboard
