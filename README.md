@@ -14,3 +14,5 @@ Created an interactive dashboard using Excel which included the following:
 **2- Coffee Sales Analysis and Dashboard**
 
 This project involved data cleaning and using advanced excel functionalities namely xlookup and index match to help with data analysis. It also utilised pivot tables to create the visuals as well as a timeline and a slicer to create an interaction dashboard
+
+**Dashboard**: [Coffee sales](https://github.com/Shaima15/Excel_projects/blob/main/Coffee_Sales_Dashboard.xlsx)
